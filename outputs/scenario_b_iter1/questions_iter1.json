@@ -1,0 +1,70 @@
+{
+  "session_id": 2,
+  "score": 2,
+  "questions": [
+    {
+      "question": "What is the role/significance of 'suspension' in this section?",
+      "options": [
+        "suspension is critical",
+        "suspension is irrelevant",
+        "suspension is optional",
+        "suspension is deprecated"
+      ],
+      "answer": "suspension is critical",
+      "explanation": "The section emphasizes suspension.",
+      "topic": "suspension"
+    },
+    {
+      "question": "What is the role/significance of 'asset' in this section?",
+      "options": [
+        "asset is critical",
+        "asset is irrelevant",
+        "asset is optional",
+        "asset is deprecated"
+      ],
+      "answer": "asset is critical",
+      "explanation": "The section emphasizes asset.",
+      "topic": "asset"
+    },
+    {
+      "question": "What is the role/significance of 'operational' in this section?",
+      "options": [
+        "operational is critical",
+        "operational is irrelevant",
+        "operational is optional",
+        "operational is deprecated"
+      ],
+      "answer": "operational is critical",
+      "explanation": "The section emphasizes operational.",
+      "topic": "operational"
+    },
+    {
+      "question": "What is the role/significance of 'territory' in this section?",
+      "options": [
+        "territory is critical",
+        "territory is irrelevant",
+        "territory is optional",
+        "territory is deprecated"
+      ],
+      "answer": "territory is critical",
+      "explanation": "The section emphasizes territory.",
+      "topic": "territory"
+    },
+    {
+      "question": "What is the role/significance of 'engagement' in this section?",
+      "options": [
+        "engagement is critical",
+        "engagement is irrelevant",
+        "engagement is optional",
+        "engagement is deprecated"
+      ],
+      "answer": "engagement is critical",
+      "explanation": "The section emphasizes engagement.",
+      "topic": "engagement"
+    }
+  ],
+  "weak_topics_used": [
+    "suspension",
+    "asset"
+  ]
+}
