@@ -31,6 +31,8 @@ app/
  ├── cli.py      # command-line interface
  └── main.py     # FastAPI REST API
 
+```
+
  ## Data Files
 Place the required PDF files inside the `data/` folder before running:
 
@@ -38,7 +40,6 @@ Place the required PDF files inside the `data/` folder before running:
 - `data/intern_assessment_brief.pdf`
 
 These source PDFs are not included in the repository.
-```
 
 ## Install
 ```bash
